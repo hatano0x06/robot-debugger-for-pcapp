@@ -1,0 +1,17 @@
+// ‰Šú‰»+éŒ¾
+servo arm0(1,200);
+servo arm1(2,200);
+servo arm2(3,200);
+servo arm3(4,200);
+servo arm4(5,200);
+servo arm5(6,200);
+servo arm6(7,200);
+servo arm7(8,200);
+servo arm8(9,200);
+servo arm9(10,200);
+servo arm10(11,200);
+
+
+void action(servo arm0,servo arm1,servo arm2,servo arm3,servo arm4,servo arm5,servo arm6,servo arm7,servo arm8,servo arm9,servo arm10);
+
+

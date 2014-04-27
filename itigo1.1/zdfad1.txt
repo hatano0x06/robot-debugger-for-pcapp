@@ -1,0 +1,8 @@
+servo_class arm0(0,200)
+servo_class arm1(1,200)
+servo_class arm2(2,200)
+servo_class arm3(3,200)
+servo_class arm4(4,200)
+servo_class arm5(5,200)
+servo_class arm6(6,200)
+servo_class arm7(7,200)

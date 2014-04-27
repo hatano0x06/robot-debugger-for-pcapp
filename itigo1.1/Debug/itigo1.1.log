@@ -1,0 +1,69 @@
+﻿2012/10/07 20:38:28 にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "C:\Users\hata\Dropbox\program\itigo1.1\itigo1.1.vcxproj" (build ターゲット)。
+     1>InitializeBuildStatus:
+         "Debug\itigo1.1.unsuccessfulbuild" のタッチ タスクを実行しています。
+       ClCompile:
+         すべての出力が最新のものです。
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\itigo1.1.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt itigo1.1View.cpp
+         itigo1.1View.cpp
+     1>c:\users\hata\dropbox\program\itigo1.1\itigo1.1view.cpp(315): error C2059: 構文エラー : ')'
+     1>c:\users\hata\dropbox\program\itigo1.1\itigo1.1view.cpp(315): error C2143: 構文エラー : ';' が '{' の前にありません。
+     1>c:\users\hata\dropbox\program\itigo1.1\itigo1.1view.cpp(317): error C2181: else 文が if と一致しません。
+     1>c:\users\hata\dropbox\program\itigo1.1\itigo1.1view.cpp(317): error C2059: 構文エラー : ')'
+     1>c:\users\hata\dropbox\program\itigo1.1\itigo1.1view.cpp(317): error C2143: 構文エラー : ';' が '{' の前にありません。
+     1>c:\users\hata\dropbox\program\itigo1.1\itigo1.1view.cpp(319): error C2181: else 文が if と一致しません。
+     1>c:\users\hata\dropbox\program\itigo1.1\itigo1.1view.cpp(319): error C2059: 構文エラー : ')'
+     1>c:\users\hata\dropbox\program\itigo1.1\itigo1.1view.cpp(319): error C2143: 構文エラー : ';' が '{' の前にありません。
+     1>c:\users\hata\dropbox\program\itigo1.1\itigo1.1view.cpp(321): error C2181: else 文が if と一致しません。
+     1>c:\users\hata\dropbox\program\itigo1.1\itigo1.1view.cpp(321): error C2059: 構文エラー : ')'
+     1>c:\users\hata\dropbox\program\itigo1.1\itigo1.1view.cpp(321): error C2143: 構文エラー : ';' が '{' の前にありません。
+     1>c:\users\hata\dropbox\program\itigo1.1\itigo1.1view.cpp(323): error C2181: else 文が if と一致しません。
+     1>c:\users\hata\dropbox\program\itigo1.1\itigo1.1view.cpp(323): error C2059: 構文エラー : ')'
+     1>c:\users\hata\dropbox\program\itigo1.1\itigo1.1view.cpp(323): error C2143: 構文エラー : ';' が '{' の前にありません。
+     1>c:\users\hata\dropbox\program\itigo1.1\itigo1.1view.cpp(325): error C2181: else 文が if と一致しません。
+     1>c:\users\hata\dropbox\program\itigo1.1\itigo1.1view.cpp(325): error C2059: 構文エラー : ')'
+     1>c:\users\hata\dropbox\program\itigo1.1\itigo1.1view.cpp(325): error C2143: 構文エラー : ';' が '{' の前にありません。
+     1>c:\users\hata\dropbox\program\itigo1.1\itigo1.1view.cpp(327): error C2181: else 文が if と一致しません。
+     1>c:\users\hata\dropbox\program\itigo1.1\itigo1.1view.cpp(327): error C2059: 構文エラー : ')'
+     1>c:\users\hata\dropbox\program\itigo1.1\itigo1.1view.cpp(327): error C2143: 構文エラー : ';' が '{' の前にありません。
+     1>c:\users\hata\dropbox\program\itigo1.1\itigo1.1view.cpp(329): error C2181: else 文が if と一致しません。
+     1>c:\users\hata\dropbox\program\itigo1.1\itigo1.1view.cpp(329): error C2059: 構文エラー : ')'
+     1>c:\users\hata\dropbox\program\itigo1.1\itigo1.1view.cpp(329): error C2143: 構文エラー : ';' が '{' の前にありません。
+     1>c:\users\hata\dropbox\program\itigo1.1\itigo1.1view.cpp(331): error C2181: else 文が if と一致しません。
+     1>c:\users\hata\dropbox\program\itigo1.1\itigo1.1view.cpp(331): error C2059: 構文エラー : ')'
+     1>c:\users\hata\dropbox\program\itigo1.1\itigo1.1view.cpp(331): error C2143: 構文エラー : ';' が '{' の前にありません。
+     1>c:\users\hata\dropbox\program\itigo1.1\itigo1.1view.cpp(333): error C2181: else 文が if と一致しません。
+     1>c:\users\hata\dropbox\program\itigo1.1\itigo1.1view.cpp(333): error C2059: 構文エラー : ')'
+     1>c:\users\hata\dropbox\program\itigo1.1\itigo1.1view.cpp(333): error C2143: 構文エラー : ';' が '{' の前にありません。
+     1>c:\users\hata\dropbox\program\itigo1.1\itigo1.1view.cpp(337): error C2065: 'j' : 定義されていない識別子です。
+     1>c:\users\hata\dropbox\program\itigo1.1\itigo1.1view.cpp(337): error C2228: '.acceleration_limit_a' の左側はクラス、構造体、共用体でなければなりません
+     1>c:\users\hata\dropbox\program\itigo1.1\itigo1.1view.cpp(338): error C2065: 'j' : 定義されていない識別子です。
+     1>c:\users\hata\dropbox\program\itigo1.1\itigo1.1view.cpp(338): error C2228: '.dead_band_a' の左側はクラス、構造体、共用体でなければなりません
+     1>c:\users\hata\dropbox\program\itigo1.1\itigo1.1view.cpp(339): error C2065: 'j' : 定義されていない識別子です。
+     1>c:\users\hata\dropbox\program\itigo1.1\itigo1.1view.cpp(339): error C2228: '.duty_limit_a' の左側はクラス、構造体、共用体でなければなりません
+     1>c:\users\hata\dropbox\program\itigo1.1\itigo1.1view.cpp(340): error C2065: 'j' : 定義されていない識別子です。
+     1>c:\users\hata\dropbox\program\itigo1.1\itigo1.1view.cpp(340): error C2228: '.d_gain_a' の左側はクラス、構造体、共用体でなければなりません
+     1>c:\users\hata\dropbox\program\itigo1.1\itigo1.1view.cpp(341): error C2065: 'j' : 定義されていない識別子です。
+     1>c:\users\hata\dropbox\program\itigo1.1\itigo1.1view.cpp(341): error C2228: '.initial_position_a' の左側はクラス、構造体、共用体でなければなりません
+     1>c:\users\hata\dropbox\program\itigo1.1\itigo1.1view.cpp(342): error C2065: 'j' : 定義されていない識別子です。
+     1>c:\users\hata\dropbox\program\itigo1.1\itigo1.1view.cpp(342): error C2228: '.i_gain_a' の左側はクラス、構造体、共用体でなければなりません
+     1>c:\users\hata\dropbox\program\itigo1.1\itigo1.1view.cpp(343): error C2065: 'j' : 定義されていない識別子です。
+     1>c:\users\hata\dropbox\program\itigo1.1\itigo1.1view.cpp(343): error C2228: '.i_limit_a' の左側はクラス、構造体、共用体でなければなりません
+     1>c:\users\hata\dropbox\program\itigo1.1\itigo1.1view.cpp(344): error C2065: 'j' : 定義されていない識別子です。
+     1>c:\users\hata\dropbox\program\itigo1.1\itigo1.1view.cpp(344): error C2228: '.offset_position_a' の左側はクラス、構造体、共用体でなければなりません
+     1>c:\users\hata\dropbox\program\itigo1.1\itigo1.1view.cpp(345): error C2065: 'j' : 定義されていない識別子です。
+     1>c:\users\hata\dropbox\program\itigo1.1\itigo1.1view.cpp(345): error C2228: '.position_limit_max_a' の左側はクラス、構造体、共用体でなければなりません
+     1>c:\users\hata\dropbox\program\itigo1.1\itigo1.1view.cpp(346): error C2065: 'j' : 定義されていない識別子です。
+     1>c:\users\hata\dropbox\program\itigo1.1\itigo1.1view.cpp(346): error C2228: '.position_limit_min_a' の左側はクラス、構造体、共用体でなければなりません
+     1>c:\users\hata\dropbox\program\itigo1.1\itigo1.1view.cpp(347): error C2065: 'j' : 定義されていない識別子です。
+     1>c:\users\hata\dropbox\program\itigo1.1\itigo1.1view.cpp(347): error C2228: '.p_gain_a' の左側はクラス、構造体、共用体でなければなりません
+     1>c:\users\hata\dropbox\program\itigo1.1\itigo1.1view.cpp(348): error C2065: 'j' : 定義されていない識別子です。
+     1>c:\users\hata\dropbox\program\itigo1.1\itigo1.1view.cpp(348): error C2228: '.set_target_position_a' の左側はクラス、構造体、共用体でなければなりません
+     1>c:\users\hata\dropbox\program\itigo1.1\itigo1.1view.cpp(349): error C2065: 'j' : 定義されていない識別子です。
+     1>c:\users\hata\dropbox\program\itigo1.1\itigo1.1view.cpp(349): error C2228: '.speed_limit_a' の左側はクラス、構造体、共用体でなければなりません
+     1>c:\users\hata\dropbox\program\itigo1.1\itigo1.1view.cpp(352): error C2059: 構文エラー : '<<'
+     1>プロジェクト "C:\Users\hata\Dropbox\program\itigo1.1\itigo1.1.vcxproj" (build ターゲット) のビルドが終了しました -- 失敗。
+
+ビルドに失敗しました。
+
+経過時間 00:00:15.68

@@ -1,0 +1,26 @@
+// ‰Šú‰»+éŒ¾
+servo arm0(1,200);
+servo arm1(2,982);
+servo arm2(3,200);
+servo arm3(4,1680);
+servo arm4(5,2073);
+servo arm5(6,200);
+
+
+void action(servo arm0,servo arm1,servo arm2,servo arm3,servo arm4,servo arm5);
+
+
+// “®ì1
+delay(500);
+arm4.target_position(1047);
+
+// “®ì2
+delay(500);
+arm4.target_position(2073);
+
+// “®ì3
+delay(500);
+
+// “®ì4
+delay(500);
+

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "itigo1.1", "itigo1.1.vcxproj", "{B0C40DA1-49C6-4849-B5E0-16864E8E1399}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0C40DA1-49C6-4849-B5E0-16864E8E1399}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B0C40DA1-49C6-4849-B5E0-16864E8E1399}.Debug|Win32.Build.0 = Debug|Win32
+		{B0C40DA1-49C6-4849-B5E0-16864E8E1399}.Release|Win32.ActiveCfg = Release|Win32
+		{B0C40DA1-49C6-4849-B5E0-16864E8E1399}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
